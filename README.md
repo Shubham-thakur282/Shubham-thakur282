@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **Dsa**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **shubham58188@gmail.com**
 
