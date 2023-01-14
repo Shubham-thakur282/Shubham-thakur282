@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **WEB Development and React Native**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **Dsa**
 
 - 📫 How to reach me **shubham58188@gmail.com**
 
