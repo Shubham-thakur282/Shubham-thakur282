@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+- 🌱 I’m currently learning **Data structures and algorithms and MERN Development**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA and MERN**
 
 - 📫 How to reach me **shubham58188@gmail.com**
 
