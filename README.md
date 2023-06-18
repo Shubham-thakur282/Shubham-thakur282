@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning <b>Data structures and algorithms and MERN Development</b></b><br><br>
 - 💬 Ask me about <b>DSA and MERN</b><br><br>
 - 📫 How to reach me <b>shubham58188@gmail.com</b><br><br>
-- ⚡ Fun fact **I am a coder and I hate coding LOL:
+- ⚡ Fun fact -I am a coder and I hate coding LOL:
 
 
 ## 🌐 Socials:
