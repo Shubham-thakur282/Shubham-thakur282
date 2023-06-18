@@ -5,8 +5,11 @@
 
 <p align="left"> <img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
 
-- 💫 About Me:
-- 🌱 I’m currently learning **Data structures and algorithms and MERN Development**<br><br>- 💬 Ask me about **DSA and MERN**<br><br>- 📫 How to reach me **shubham58188@gmail.com**<br><br>- ⚡ Fun fact **I am a coder and I hate coding LOL:
+<h2>💫 About Me:</h2>
+- 🌱 I’m currently learning **Data structures and algorithms and MERN Development**<br><br>
+- 💬 Ask me about **DSA and MERN**<br><br>
+- 📫 How to reach me **shubham58188@gmail.com**<br><br>
+- ⚡ Fun fact **I am a coder and I hate coding LOL:
 
 
 ## 🌐 Socials:
