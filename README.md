@@ -5,9 +5,6 @@
 
 <p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-thakur282&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-thakur282" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-thakur282" alt="shubham-thakur282" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
@@ -15,7 +12,7 @@
 
 - 📫 How to reach me **Shubham58188@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xZgv_JlM5bpOcX98H_JFPTBCI0miNsGJd66WvxIvQEI/edit](https://docs.google.com/document/d/1xZgv_JlM5bpOcX98H_JFPTBCI0miNsGJd66WvxIvQEI/edit)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1xZgv_JlM5bpOcX98H_JFPTBCI0miNsGJd66WvxIvQEI/edit)
 
 - ⚡ Fun fact **I am a coder and I hate coding LOL**
 
