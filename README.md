@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Thakur</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-
 <p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
+
 
 - 🌱 I’m currently learning **DSA**
 
