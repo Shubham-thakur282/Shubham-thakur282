@@ -6,7 +6,6 @@
 <p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
 
 
-
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **DSA and MERN**
