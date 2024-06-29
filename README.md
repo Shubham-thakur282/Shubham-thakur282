@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Shubham58188@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a coder and I hate coding LOL**
 
