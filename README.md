@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Thakur</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-thakur282&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-thakur282" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-thakur282" alt="shubham-thakur282" /></a> </p>
-
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **DSA and MERN**
@@ -18,6 +12,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing](https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a coder and I hate coding LOL**
+
+<p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-thakur282&show_icons=true&locale=en" alt="shubham-thakur282" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-thakur282&" alt="shubham-thakur282" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-thakur282&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-thakur282" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-thakur282" alt="shubham-thakur282" /></a> </p>
