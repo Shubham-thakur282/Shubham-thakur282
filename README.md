@@ -3,15 +3,17 @@
 <h1 align="center">Hi 👋, I'm Shubham Thakur</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
+
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **DSA and MERN**
 
 - 📫 How to reach me **Shubham58188@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing](https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PwisMd1j8XIA5O2iodiVFQsG7fG9kaVJ/view?usp=sharing](Resume)
 
 - ⚡ Fun fact **I am a coder and I hate coding LOL**
+
 
 <p align="center"><img src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif" alt="shubham-thakur282" /> </p>
 
